@@ -34,16 +34,16 @@
     },
     {
       "id": 5,
-      "name": "product5",
+      "name": "product55",
       "price": "3131",
       "quantity": "489",
-      "selected": false,
-      "available": false
+      "selected": true,
+      "available": true
     },
     {
-      "name": "product6",
-      "price": "42",
-      "quantity": "88",
+      "name": "product2353",
+      "price": "43",
+      "quantity": "422",
       "selected": false,
       "available": true,
       "id": 6
